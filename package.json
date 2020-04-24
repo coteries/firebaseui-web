@@ -5,16 +5,16 @@
   "files": [
     "dist/firebaseui.js",
     "dist/firebaseui.css",
-    "dist/npm.js",
-    "dist/esm.js",
+    "dist/npm__de.js",
+    "dist/esm__de.js",
     "dist/index.d.ts",
     "dist/externs",
     "LICENSE",
     "README.md",
     "package.json"
   ],
-  "main": "./dist/npm.js",
-  "module": "./dist/esm.js",
+  "main": "./dist/npm__de.js",
+  "module": "./dist/esm__de.js",
   "types": "./dist/index.d.ts",
   "style": "dist/firebaseui.css",
   "scripts": {
